@@ -1,0 +1,6 @@
+USR00001: {"username": "aldieadrian", "password": "1234", "nama": "Aldie Adrian", "role": "superadmin"}
+USRde033: {"username": "rakagusnanda", "password": "Raka1234", "nama": "Raka Gusnanda", "role": "admin"}
+USR9be9e: {"username": "andiearvian", "password": "Andie123", "nama": "Andie Arvian", "role": "admin"}
+USR43726: {"username": "nabila", "password": "Nabila123", "nama": "Nabila", "role": "admin"}
+USRd9e9e: {"username": "ranggadejan", "password": "Rangga123", "nama": "Rangga Dejan", "role": "admin"}
+USRe1e8b: {"username": "aldie", "password": "Aldie123", "nama": "Aldie Adrian", "role": "admin"}

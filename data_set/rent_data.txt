@@ -1,0 +1,11 @@
+RNT24dbf: {"customer_id": "CST00001", "car_id": "CAR8b706", "rent_date": "2024-02-01", "duration": 7, "return_date": "2024-02-16", "subtotal": 700000, "charge": 1200000, "total": 1900000, "status": "returned"}
+RNT76086: {"customer_id": "CST00001", "car_id": "CAR59a40", "rent_date": "2024-02-01", "duration": 5, "return_date": "2024-02-18", "subtotal": 1750000, "charge": 4800000, "total": 6550000, "status": "returned"}
+RNT0edbc: {"customer_id": "CST00001", "car_id": "CAR00001", "rent_date": "2024-02-10", "duration": 5, "return_date": "2024-02-18", "subtotal": 1500000, "charge": 1050000, "total": 2550000, "status": "returned"}
+RNTd29d8: {"customer_id": "CST00001", "car_id": "CAR201f3", "rent_date": "2024-02-01", "duration": 5, "return_date": "2024-02-19", "subtotal": 2500000, "charge": 7150000, "total": 9650000, "status": "returned"}
+RNT4f8cb: {"customer_id": "CST00001", "car_id": "CARb8d5f", "rent_date": "2024-02-19", "duration": 6, "return_date": "2024-02-19", "subtotal": 3000000, "charge": 0, "total": 3000000, "status": "returned"}
+RNT5609b: {"customer_id": "CST00001", "car_id": "CAR00001", "rent_date": "2024-02-19", "duration": 5, "return_date": "2024-02-19", "subtotal": 1500000, "charge": 0, "total": 1500000, "status": "returned"}
+RNT5f343: {"customer_id": "CST3e9dc", "car_id": "CAR59a40", "rent_date": "2024-02-19", "duration": 5, "return_date": "not yet", "subtotal": 1750000, "charge": 0, "total": 1750000, "status": "on rent"}
+RNT4cb9d: {"customer_id": "CST4fa14", "car_id": "CAR201f3", "rent_date": "2024-02-19", "duration": 5, "return_date": "not yet", "subtotal": 2500000, "charge": 0, "total": 2500000, "status": "on rent"}
+RNT7ebdc: {"customer_id": "CST37690", "car_id": "CARd0ffb", "rent_date": "2024-02-19", "duration": 9, "return_date": "not yet", "subtotal": 2700000, "charge": 0, "total": 2700000, "status": "on rent"}
+RNTbee6e: {"customer_id": "CST4fa14", "car_id": "CARb8d5f", "rent_date": "2024-02-19", "duration": 10, "return_date": "not yet", "subtotal": 5000000, "charge": 0, "total": 5000000, "status": "on rent"}
+RNT4f7b6: {"customer_id": "CST494a6", "car_id": "CARdb032", "rent_date": "2024-02-19", "duration": 9, "return_date": "not yet", "subtotal": 2700000, "charge": 0, "total": 2700000, "status": "on rent"}

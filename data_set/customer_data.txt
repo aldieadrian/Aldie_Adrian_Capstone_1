@@ -1,0 +1,5 @@
+CST00001: {"nama": "Aldie Adrian", "alamat": "Jl. Kacapiring No. 50", "kota": "Bandung", "telepon": "081313599917", "ktp": "1234567890123459"}
+CST3e9dc: {"nama": "Raka Gusnanda", "alamat": "Jl. Antapani No 50", "kota": "Bandung", "telepon": "1231223", "ktp": "1234567890123456"}
+CST4fa14: {"nama": "Andie Arvian", "alamat": "Jl. Gatot Subroto No. 50", "kota": "Jakarta", "telepon": "0821234567", "ktp": "1234567890123457"}
+CST37690: {"nama": "Susilo", "alamat": "Jl. Kencana No 50", "kota": "Solo", "telepon": "08123456789", "ktp": "0987654321123456"}
+CST494a6: {"nama": "Bambang", "alamat": "Jl. Salak No 60", "kota": "Yogyakarta", "telepon": "08132456789", "ktp": "1234567890654321"}

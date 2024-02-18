@@ -1,0 +1,6 @@
+CAR00001: {"brand": "Honda", "model": "Brio", "warna": "Putih", "tahun": "2012", "harga": "300000", "status": "available"}
+CAR59a40: {"brand": "Honda", "model": "Brio", "warna": "Hitam", "tahun": "2015", "harga": 350000, "status": "on rent"}
+CAR201f3: {"brand": "Honda", "model": "HR-V", "warna": "2017", "tahun": "2018", "harga": 500000, "status": "on rent"}
+CARd0ffb: {"brand": "Toyota", "model": "Avanza", "warna": "Abu-Abu", "tahun": "2014", "harga": 300000, "status": "on rent"}
+CARb8d5f: {"brand": "Toyota", "model": "Innova", "warna": "Hitam", "tahun": "2020", "harga": 500000, "status": "on rent"}
+CARdb032: {"brand": "Mazda", "model": "Cx-5", "warna": "Putih", "tahun": "2012", "harga": "300000", "status": "on rent"}
